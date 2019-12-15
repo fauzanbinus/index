@@ -1,2 +1,2 @@
-# info.jakaeriyadi.github.io
+# jakaeriyadi.github.io
 i can do it
